@@ -1,2 +1,8 @@
+streamlit as st
 pandas
-streamlit
+tensorflow
+keras
+numpy 
+pandas
+mlxtend 
+warnings
