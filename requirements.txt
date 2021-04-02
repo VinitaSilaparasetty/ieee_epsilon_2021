@@ -1,4 +1,4 @@
-streamlit as st
+streamlit
 pandas
 tensorflow
 keras
