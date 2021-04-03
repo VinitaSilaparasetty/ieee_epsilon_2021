@@ -1,0 +1,7 @@
+streamlit
+pandas
+tensorflow
+keras
+numpy 
+pandas
+mlxtend 
