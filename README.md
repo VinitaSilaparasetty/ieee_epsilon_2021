@@ -17,7 +17,7 @@ EEE SIES GST with its sub-chapters MTT-S and Computer Society in feature intends
 
 ![image](https://user-images.githubusercontent.com/17146805/113475176-9e2f4980-9491-11eb-832a-1e3431fe2dd8.png)
 
-Follow me on social media: 
+Follow me on social media: <https://officialvinita.wordpress.com/>
 
 # Agenda
 
