@@ -5,7 +5,7 @@
 
 EEE SIES GST with its sub-chapters MTT-S and Computer Society in feature intends to conduct a Symposium which will be an Academic Convention wherein the invited Industry Experts will speak about a particular subject of their research. The topics will run along the track of a theme for the Symposium. The target is to create an educational and orderly ambience where ideas are addressed and exchanged.
 
-#  Content:
+#  Contents:
 
  [data](https://github.com/VinitaSilaparasetty/ieee_epsilon_2021/tree/master/data): Contains the data for the model and the data for the streamlit app.
 
