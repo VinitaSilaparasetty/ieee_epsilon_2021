@@ -18,7 +18,7 @@ EEE SIES GST with its sub-chapters MTT-S and Computer Society in feature intends
 
 ![image](https://user-images.githubusercontent.com/17146805/113475203-be5f0880-9491-11eb-8cec-a67810719367.png)
 
-1) Use the jupyter notebook in [eda](https://github.com/VinitaSilaparasetty/ieee_epsilon_2021/tree/master/eda) to prepare diabetes.csv (You can find it here [data](https://github.com/VinitaSilaparasetty/ieee_epsilon_2021/tree/master/data))
+1) Use the jupyter notebook in [eda](https://github.com/VinitaSilaparasetty/ieee_epsilon_2021/tree/master/eda) to prepare diabetes.csv (You can find it [here](https://github.com/VinitaSilaparasetty/ieee_epsilon_2021/tree/master/data))
 
 2) All the files required for deployment can be found in [deploy](https://github.com/VinitaSilaparasetty/ieee_epsilon_2021/tree/master/deploy)
 
