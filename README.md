@@ -22,7 +22,7 @@ EEE SIES GST with its sub-chapters MTT-S and Computer Society in feature intends
 
 2) All the files required for deployment can be found in [deploy](https://github.com/VinitaSilaparasetty/ieee_epsilon_2021/tree/master/deploy)
 
-3) Follow the instructions in "Deploymnet Instructions.pdf" to deploy the streamlit app.
+3) Follow the instructions in [Deploymnet Instructions](https://github.com/VinitaSilaparasetty/ieee_epsilon_2021/blob/master/Deployment%20Instructions.pdf) to deploy the streamlit app.
 
 4) Use patient_records.csv to test the streamlit app after deployment.
 
