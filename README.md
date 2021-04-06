@@ -33,7 +33,7 @@ EEE SIES GST with its sub-chapters MTT-S and Computer Society in feature intends
 Follow me on social media: <https://officialvinita.wordpress.com/>
 
 
-### Acknowledgements
+# Acknowledgements
 
 1) Special thanks to: Mark https://github.com/markdouthwaite/streamlit-project/commits?author=markdouthwaite
 for this project template.
