@@ -11,7 +11,7 @@ EEE SIES GST with its sub-chapters MTT-S and Computer Society in feature intends
 
  [deploy](https://github.com/VinitaSilaparasetty/ieee_epsilon_2021/tree/master/deploy): Contains all the files to deploy the app.
 
- [eda](https://github.com/VinitaSilaparasetty/ieee_epsilon_2021/tree/master/eda): Contains the jupyter notebook with the analysis and preperation of the data.
+ [eda](https://github.com/VinitaSilaparasetty/ieee_epsilon_2021/tree/master/eda): Contains the jupyter notebook with the analysis and preparation of the data.
 
 
 # Instructions to use this Kit:
