@@ -3,7 +3,17 @@
 ![image](https://user-images.githubusercontent.com/17146805/113475152-7b9d3080-9491-11eb-9dff-bf140b9f494a.png)
 
 
-EEE SIES GST with its sub-chapters MTT-S and Computer Society in feature intends to conduct a Symposium which will be an Academic Convention wherein the invited Industry Experts will speak about a particular subject of their research. The topics will run along the track of a theme for the Symposium. The target is to create an educational and orderly ambience where ideas are addressed and exchanged.
+EEE SIES GST with its sub-chapters MTT-S and Computer Society in feature intends to conduct a Symposium which will be an Academic Convention wherein the invited Industry Experts will speak about a particular subject of their research. The topics will run along the track of a theme for the Symposium. The target is to create an educational and orderly ambience where ideas are addressed and exchanged. This kit was designed to help participants follow along with the workshop.
+
+### Project Objective - 
+Teach beginners how to develop an end-to-end application that accepts patient data and predicts if they have diabetes or not. 
+
+### Project Description 
+* Analyze data and generate visuals for better understanding using the Python libraries Pandas, Numpy, Matplotlib, Plotly & Seaborn. 
+* Conceptualize and developed a CNN using Tensorflow and Keras to predict if a patient is diabetic or not. 
+* Build a CNN model and develop an application using Python's Streamlit package. 
+* Deploy the Streamlit application to the cloud using Google Cloud Platform's App Engine. 
+ 
 
 #  Contents:
 
