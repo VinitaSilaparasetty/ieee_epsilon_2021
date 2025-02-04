@@ -5,7 +5,7 @@
 
 EEE SIES GST with its sub-chapters MTT-S and Computer Society in feature intends to conduct a Symposium which will be an Academic Convention wherein the invited Industry Experts will speak about a particular subject of their research. The topics will run along the track of a theme for the Symposium. The target is to create an educational and orderly ambience where ideas are addressed and exchanged. This kit was designed to help participants follow along with the workshop.
 
-### Project Objective - 
+### Project Objective 
 Teach beginners how to develop an end-to-end application that accepts patient data and predicts if they have diabetes or not. 
 
 ### Project Description 
