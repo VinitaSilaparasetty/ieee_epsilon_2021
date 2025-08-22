@@ -41,19 +41,7 @@ Teach beginners how to develop an end-to-end application that accepts patient da
 
 4) Use patient_records.csv to test the streamlit app after deployment.
 
-# About the Trainer
 
-![image](https://user-images.githubusercontent.com/17146805/113475176-9e2f4980-9491-11eb-832a-1e3431fe2dd8.png)
+[Linkedin](https://www.linkedin.com/in/vinita-silaparasetty/)
 
-Follow me on social media: <https://officialvinita.wordpress.com/>
-
-
-# Acknowledgements
-
-1) Special thanks to: Mark https://github.com/markdouthwaite/streamlit-project/commits?author=markdouthwaite
-for this project template.
-
-This is a basic project template for building and deploying containerized [streamlit](https://docs.streamlit.io/en/stable/index.html) apps.
-
-This app is configured to be deployed with Google Cloud Platform's [App Engine](https://cloud.google.com/appengine).
 
