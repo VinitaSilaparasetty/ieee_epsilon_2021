@@ -1,3 +1,5 @@
+### *Note: This repository was created as a **teaching kit** for IEEE Epsilon 2021, where I conducted a workshop for beginners on building and deploying an ML application. It demonstrates an end-to-end workflow (EDA → CNN → Streamlit app → GCP deployment) at an introductory level. This is not intended to represent advanced ML research or production-grade work — it’s preserved as a record of my teaching contributions.*
+
 # IEEE Epsilon 2021
 
 ![image](https://user-images.githubusercontent.com/17146805/113475152-7b9d3080-9491-11eb-9dff-bf140b9f494a.png)
