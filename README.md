@@ -1,4 +1,6 @@
-### *Note: This repository was created as a **teaching kit** for IEEE Epsilon 2021, where I conducted a workshop for beginners on building and deploying an ML application. It demonstrates an end-to-end workflow (EDA → CNN → Streamlit app → GCP deployment) at an introductory level. This is not intended to represent advanced ML research or production-grade work — it’s preserved as a record of my teaching contributions.*
+### *Note: This repository was created as a **teaching kit** for IEEE Epsilon 2021, where I conducted a workshop on building and deploying an end-to-end ML application with Streamlit and GCP.For the cloud deployment setup, I adapted standard boilerplate files (Dockerfile, Makefile, app.py, app.yaml) from [Mark Douthwaite’s Streamlit project template](https://github.com/markdouthwaite/streamlit-project). All other components — the diabetes dataset, EDA notebooks, CNN model, student-friendly Streamlit app, and step-by-step workshop instructions — were developed by me specifically for this training context.  
+### This repo is intentionally beginner-oriented, designed to help participants follow along and learn. It is not meant to represent advanced ML research or production-grade systems.*
+
 
 # IEEE Epsilon 2021
 
